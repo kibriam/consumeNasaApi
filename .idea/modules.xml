@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ConsumeNasaApi.iml" filepath="$PROJECT_DIR$/ConsumeNasaApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consumeNasaApi.iml" filepath="$PROJECT_DIR$/consumeNasaApi.iml" />
     </modules>
   </component>
 </project>
